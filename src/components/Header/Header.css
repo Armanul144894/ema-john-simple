@@ -1,0 +1,12 @@
+.header {
+  background-color: #1c2b35;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 80px;
+}
+.header-info a {
+  text-decoration: none;
+  color: white;
+  padding-right: 30px;
+}
