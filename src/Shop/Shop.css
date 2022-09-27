@@ -16,48 +16,7 @@
   background: rgba(255, 153, 0, 0.3);
   width: 264px;
 }
-.order-summary {
-  text-align: center;
-  font-family: "Lato";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 25px;
-}
-.order-info {
-  font-family: "Lato";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 17px;
-  margin-left: 23px;
-}
 
-.btn-clear {
-  color: white;
-  margin-left: 23px;
-  width: 232px;
-  height: 48px;
-  background: #ff3030;
-  border: none;
-  border-radius: 4px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-}
-
-.btn-review {
-  color: white;
-  margin-left: 23px;
-  width: 232px;
-  height: 48px;
-  background: #ff9900;
-  border: none;
-  border-radius: 4px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-}
 @media screen and (max-width: 1400px) {
   .product-container {
     grid-template-columns: repeat(2, 1fr);
